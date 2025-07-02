@@ -18,9 +18,8 @@ This project applies classification algorithms to predict customer churn using b
 │   ├── customer\_churn\_dataset-testing-master.csv
 ├── main.py
 ├── DiagnosticAnalytics.py
-├── PredictiveAnalytics.py
-├── ExcelUsabilityChart.py
-└── kaggle.json
+├── PredictiveAnalytics.py 
+└── ExcelUsabilityChart.py
 ````
 
 ---
@@ -131,7 +130,4 @@ This project is open-source and free to use for educational purposes. Attributio
 
 ### 🔍 Catatan Tambahan:
 - Kamu **tidak perlu** menggabungkan `pip install -r requirements.txt` dan `pip install ...` jika file `requirements.txt` sudah ada.
-- Kalau kamu mau lebih advanced, kamu bisa tambahkan badge (seperti versi Python, license, stars repo, dll) di bagian paling atas README.
 
-Kalau kamu ingin saya bantu buatin file `requirements.txt` otomatis dari script-mu juga bisa!
-```
