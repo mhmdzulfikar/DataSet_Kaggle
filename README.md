@@ -11,8 +11,7 @@ This project applies classification algorithms to predict customer churn using b
 
 ### 📁 Folder Structure
 
-```
-
+```bash
 .KAGGLE/
 ├── data/
 │   ├── customer\_churn\_dataset-training-master.csv
@@ -22,7 +21,6 @@ This project applies classification algorithms to predict customer churn using b
 ├── PredictiveAnalytics.py
 ├── ExcelUsabilityChart.py
 └── kaggle.json
-
 ````
 
 ---
