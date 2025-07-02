@@ -30,7 +30,7 @@ This project applies classification algorithms to predict customer churn using b
 
 ```bash
 git clone https://github.com/mhmdzulfikar/DataSet_Kaggle.git
-cd DataSet_Kaggle/.KAGGLE
+cd DataSet_Kaggle/.kaggle
 ````
 
 #### ✅ 2. Create Virtual Environment (Optional but Recommended)
