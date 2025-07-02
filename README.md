@@ -129,5 +129,5 @@ This project is open-source and free to use for educational purposes. Attributio
 ---
 
 ### 🔍 Catatan Tambahan:
-- Kamu **tidak perlu** menggabungkan `pip install -r requirements.txt` dan `pip install ...` jika file `requirements.txt` sudah ada.
+- Kamu tidak perlu menggabungkan `pip install -r requirements.txt` dan `pip install ...` jika file `requirements.txt` sudah ada.
 
